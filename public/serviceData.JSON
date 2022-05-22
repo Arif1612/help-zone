@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Kuran Learning",
+        "img": "./image/5.jpg",
+        "courseLength": "4 month",
+        "totalClass": "50"
+    },
+    {
+        "name": "Hand Writing",
+        "img": "./image/6.jpg",
+        "courseLength": "4 month",
+        "totalClass": "50"
+    },
+    {
+        "name": "English Grammer",
+        "img": "./image/7.jpg",
+        "courseLength": "8 month",
+        "totalClass": "0"
+    },
+    {
+        "name": "Microsoft Excel",
+        "img": "./image/8.jpg",
+        "courseLength": "4 month",
+        "totalClass": "50"
+    },
+    {
+        "name": "Study Smart",
+        "img": "./image/9.jpg",
+        "courseLength": "1 month",
+        "totalClass": "5"
+    },
+    {
+        "name": "Fitness",
+        "img": "./image/10.jpg",
+        "courseLength": "1 Year",
+        "ClassPerSubject": "4 days in a Week"
+    },
+    {
+        "name": "Cartoon Animation",
+        "img": "./image/11.jpg",
+        "courseLength": "4 month",
+        "totalClass": "50"
+    },
+    {
+        "name": "Career Guidance",
+        "img": "./image/12.jpg",
+        "courseLength": "6 month",
+        "totalClass": "75"
+    }
+]

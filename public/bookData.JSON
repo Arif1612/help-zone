@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Botany",
+        "img": "./image/20.jpg",
+        "Class": "HSC"
+    },
+    {
+        "name": "Chemistry",
+        "img": "./image/21.png",
+        "Class": "HSC"
+    },
+    {
+        "name": "Physics",
+        "img": "./image/22.jpg",
+        "Class": "HSC"
+    },
+    {
+        "name": "Math",
+        "img": "./image/23.jpg",
+        "Class": "Eight"
+    },
+    {
+        "name": "Math",
+        "img": "./image/24.jpg",
+        "Class": "Learning"
+    },
+    {
+        "name": "Math",
+        "img": "./image/25.jpg",
+        "Class": "Four"
+    },
+    {
+        "name": "Guideline",
+        "img": "./image/26.jpg",
+        "Class": "Motivational"
+    }
+]

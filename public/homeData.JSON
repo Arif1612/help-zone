@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Special Course",
+        "img": "./image/0.jpg",
+        "courseLength": "4 month",
+        "totalClass": "50"
+    },
+    {
+        "name": "SSC",
+        "img": "./image/1.jpg",
+        "courseLength": "1.5 Year",
+        "totalClass": "290 class per subject"
+    },
+    {
+        "name": "Admission",
+        "img": "./image/2.jpg",
+        "courseLength": "4 month",
+        "totalClass": "50"
+    },
+    {
+        "name": "Job",
+        "img": "./image/3.jpg",
+        "courseLength": "6 month",
+        "totalClass": "75"
+    }
+]

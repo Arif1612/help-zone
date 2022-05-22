@@ -1,0 +1,12 @@
+.footercss {
+    background-color: rgb(13, 63, 80);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    font-weight: 900;
+
+
+}

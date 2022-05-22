@@ -1,0 +1,10 @@
+.AboutCss {
+    margin-top: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+
+
+    border: 3px solid gray;
+    box-shadow: 10px 10px 50px;
+}
